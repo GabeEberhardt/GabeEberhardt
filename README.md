@@ -23,7 +23,6 @@
 | 💻 | Me aprofundando em **HTML5** e **CSS3** |
 | 🚧 | Construindo projetos e aprendendo na prática |
 | 🐛 | Debug é meu segundo idioma |
-| 🎯 | Focado em me tornar um dev completo |
 | 🥋 | *"No matter what happens, keep going."* — Khabib 🦅 |
 
 ---
