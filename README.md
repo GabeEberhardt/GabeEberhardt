@@ -74,7 +74,9 @@
 
 <div align="center">
   <sub>Obrigado pela visita ❤️</sub><br/>
-  <img src="https://komarev.com/ghpvc/?username=GabeEberhardt&color=F7A800&style=flat-square&label=Visitantes"/>
+  <a href="https://info.flagcounter.com/OeOl">
+  <img src="https://s05.flagcounter.com/count2/OeOl/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
+</a>
 </div>
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_down.svg" width="100%"/>
