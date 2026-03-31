@@ -81,7 +81,7 @@
 
 ---
 
-## 🐍 Snake comendo minhas contribuições...
+
 
 <div align="center">
 
