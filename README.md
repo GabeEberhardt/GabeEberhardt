@@ -1,4 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,19,20,24&height=200&section=header&text=Gabe%20Eberhardt&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20ADS%20%7C%20HTML5%20%26%20CSS3&descAlignY=58&descSize=18" width="100%"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="100%">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#1f6feb"/>
+      <stop offset="100%" style="stop-color:#388bfd"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#grad)"/>
+  <path d="M0,140 C150,180 350,100 600,150 C750,180 850,130 900,140 L900,200 L0,200 Z" fill="#0d1117" opacity="0.4"/>
+  <path d="M0,160 C200,120 400,180 650,150 C780,135 860,160 900,155 L900,200 L0,200 Z" fill="#0d1117" opacity="0.6"/>
+  <text x="450" y="90" font-family="monospace" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">Gabe Eberhardt</text>
+  <text x="450" y="130" font-family="monospace" font-size="16" fill="#a0c4ff" text-anchor="middle">Estudante de ADS | HTML5 &amp; CSS3</text>
+</svg>
 
 <div align="center">
 
@@ -54,7 +67,7 @@
 
 ---
 
-### 🐍 Snake comendo minhas contribuições
+
 
 <div align="center">
   <picture>
@@ -78,4 +91,15 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,50:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="100%">
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#388bfd"/>
+      <stop offset="50%" style="stop-color:#1f6feb"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="120" fill="#0d1117"/>
+  <path d="M0,60 C150,20 350,100 600,50 C750,20 850,70 900,60 L900,0 L0,0 Z" fill="url(#grad2)" opacity="0.8"/>
+  <path d="M0,40 C200,80 400,20 650,50 C780,65 860,40 900,45 L900,0 L0,0 Z" fill="url(#grad2)" opacity="0.5"/>
+</svg>
