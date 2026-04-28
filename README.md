@@ -92,7 +92,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/abressiddique/abressiddique/raw/main/githubgif.gif" width="480" alt="coding gif"/>
+  <img src="https://github.com/abressiddique/abressiddique/raw/main/githubgif.gif" width="800" alt="coding gif"/>
   <br><br>
   <sub>{ futuro: "dev" } ⌨️ &nbsp;|&nbsp; Obrigado pela visita! 🤝</sub>
 </div>
