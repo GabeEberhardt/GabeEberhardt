@@ -2,7 +2,7 @@
      GitHub Profile - GabeEberhardt
      Inspired by: BEPb & abressiddique
      ============================  -->
-
+![header](https://raw.githubusercontent.com/GabeEberhardt/GabeEberhardt/main/header.svg)
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7A800&center=true&vCenter=true&width=700&height=70&lines=Oi%2C+eu+sou+o+Gabe+%F0%9F%91%8B;Estudante+de+ADS+%7C+3%C2%BA+Semestre+%F0%9F%8E%93;Aprendendo+Java+%26+HTML+%26+CSS+%F0%9F%92%BB;erro+404%3A+vida+social+n%C3%A3o+encontrada+%F0%9F%98%82;%7B+futuro%3A+%22dev%22+%7D+%E2%8C%A8%EF%B8%8F" alt="Typing SVG"/>
 </div>
