@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying **Systems Analysis and Development (ADS)** — 3rd Semester
+- 🎓 Studying **Systems Analysis and Development (ADS)** — 4rd Semester
 - 💻 Main focus: **Fullstack development** — front to back
 - 🌐 Building with **HTML5** and **CSS3**, expanding into JavaScript
 - ☕ Studying **Java** — OOP, data structures and logic
