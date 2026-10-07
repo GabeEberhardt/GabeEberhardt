@@ -24,25 +24,7 @@
 
 ## 🛠️ Tech Stack
 
-#### **Frontend**
-
-![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-#### **Backend**
-
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-
-#### **Database**
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=336791)
-
-#### **Tools**
-
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/-VS%20Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode&perline=7" alt="tech stack"/> </div>
 
 ---
 
