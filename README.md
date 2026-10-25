@@ -31,7 +31,7 @@
 
 <div align="center">
   <a href="https://www.credly.com/badges/34d1472e-d723-44fb-9c0c-7e142c5197a0" target="_blank">
-    <img src="https://raw.githubusercontent.com/GabeEberhardt/GabeEberhardt/main/assets/gcp-load-balancing.png" alt="Google Cloud Skill Badge - Implement Load Balancing on Compute Engine" width="250"/>
+    <img src=https://github.com/GabeEberhardt/GabeEberhardt/blob/main/assets/gcp-load-balancing.png.png?raw=true width="250"/>
   </a>
 </div>
 
