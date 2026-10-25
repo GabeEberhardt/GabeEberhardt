@@ -27,17 +27,6 @@
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode&perline=7" alt="tech stack"/> </div>
 
 ---
-## 🏅 Certifications
-
-<div align="center">
-  <a href="https://www.credly.com/badges/34d1472e-d723-44fb-9c0c-7e142c5197a0" target="_blank">
-    <img src=https://github.com/GabeEberhardt/GabeEberhardt/blob/main/assets/gcp-load-balancing.png.png?raw=true width="250"/>
-  </a>
-</div>
-
----
-
-
 
 ## 📊 GitHub Stats
 
