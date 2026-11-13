@@ -11,13 +11,13 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying **Systems Analysis and Development (ADS)** — 4rd Semester
-- 💻 Main focus: **Fullstack development** — front to back
-- 🌐 Building with **HTML5** and **CSS3**, expanding into JavaScript
-- ☕ Studying **Java** — OOP, data structures and logic
-- 🗄️ Exploring databases with **PostgreSQL**
+- 🎓 Studying **Systems Analysis and Development (ADS)**, 4th Semester
+- 💻 Main focus: **software development**, with a web-oriented path
+- 🌐 **HTML5, CSS3 and JavaScript**: core path completed and applied in personal projects
+- 🔷 Studying **C#**: OOP, exception handling and web architecture
+- ☕ **Java**: OOP, data structures and logic (university)
 - 🚧 Building projects and learning by doing
-- 🎯 Goal: master the full stack and land my first tech role
+- 🎯 Goal: land my first role as an intern or junior developer
 - 🥋 *"No matter what happens, keep going."* — Khabib 🦅
 
 ---
